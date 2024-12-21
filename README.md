@@ -67,14 +67,11 @@ The Poisson distribution is the discrete probability distribution of the number 
     else:
         print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
  
-
- 
-
 # Output : 
+![280447781-c702cd34-e9b4-46de-9523-a5ee33bd577c](https://github.com/PriyankaAnnadurai/Poisson_distribution/assets/118351569/4d915f76-b588-451a-9f0e-9a98f675b4a8)
 
 
 
 # Results
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
